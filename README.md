@@ -1,4 +1,6 @@
-<h1 style="text-align:center;">Hora de Codar</h1>
+<h1 style="text-align:center;">
+    Hora de Codar
+</h1>
 <h2 >
     <a href="https://www.youtube.com/playlist?list=PLnDvRpP8Bnewiqo_La2z29dtxGyuNf94y">Dicas de JavaScript</a>
 </h2>
