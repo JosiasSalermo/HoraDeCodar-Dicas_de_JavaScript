@@ -10,7 +10,7 @@
 </p>
 <br>
 
-   * [ ] As Diferenças entre var, let e const</li>
+   * [x] As Diferenças entre var, let e const</li>
 
 
 
