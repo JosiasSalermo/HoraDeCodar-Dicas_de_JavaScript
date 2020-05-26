@@ -47,3 +47,32 @@ for(let i = 0; i < 3; i++){
 Com let até os Blocos de Menor relevância irão ter
 Escopo Próprio
 */
+
+
+// ===== Usando o const
+
+const numero = 1 
+
+console.log(numero)
+
+
+
+function dizerNumero(){
+    const numero = 1.2
+    console.log(`O número é ${numero}`)
+}
+dizerNumero()
+
+
+if(true){
+    const numero = 2 
+    console.log(numero)
+}
+
+console.log(numero)
+dizerNumero()
+
+for(let i = 0; i < 3; i++){
+    const numero = 3 
+    console.log(numero)
+}
