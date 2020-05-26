@@ -22,3 +22,28 @@ if(true){
 console.log(nome)
 
 
+// ===== Usando let
+
+let nomeLet = 'PedroLet'
+console.log(nomeLet)
+
+function dizerNomeLet(){
+    let nomeLet = 'JoaoLet'
+    console.log(`O nome é ${nomeLet}`)
+}
+dizerNomeLet()
+
+if(true){
+    let nomeLet = 'SaleteLet'
+    console.log(nomeLet)
+}
+
+for(let i = 0; i < 3; i++){
+    let nomeLet = 'AnísioLet'
+    console.log(nomeLet)
+}
+
+/* 
+Com let até os Blocos de Menor relevância irão ter
+Escopo Próprio
+*/
